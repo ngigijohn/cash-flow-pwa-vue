@@ -1,3 +1,90 @@
-<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M8.00251 14.9297L0 1.07422H6.14651L8.00251 4.27503L9.84583 1.07422H16L8.00251 14.9297Z" fill="black"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.70081"
+   height="1122.5197"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="safari-pinned-tab.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="267.84905"
+     inkscape:cy="695.26075"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     showborder="false"
+     inkscape:window-width="839"
+     inkscape:window-height="745"
+     inkscape:window-x="513"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1242"
+       inkscape:export-filename="C:\Users\AdminJohnteh\Desktop\icons\mstile-150x150.png"
+       inkscape:export-xdpi="26.181818"
+       inkscape:export-ydpi="26.181818">
+      <rect
+         style="opacity:0.999;fill:#5600ac;fill-opacity:1;stroke:none;stroke-width:4.445;stroke-linecap:round"
+         id="rect1230"
+         width="131.02167"
+         height="131.02167"
+         x="28.951866"
+         y="100.79391"
+         ry="20.953932" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:139.507px;line-height:1.25;font-family:'SF Atarian System Extended';-inkscape-font-specification:'SF Atarian System Extended, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264582"
+         x="55.051971"
+         y="212.80707"
+         id="text1234"><tspan
+           sodipodi:role="line"
+           id="tspan1232"
+           x="55.051971"
+           y="212.80707"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:139.507px;font-family:'SF Atarian System Extended';-inkscape-font-specification:'SF Atarian System Extended, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264582">$</tspan></text>
+      <rect
+         style="opacity:0.999;fill:#ffffff;fill-opacity:0.01;stroke:none;stroke-width:4.445;stroke-linecap:round"
+         id="rect1236"
+         width="145.52083"
+         height="145.52083"
+         x="21.702286"
+         y="93.544327"
+         ry="0" />
+    </g>
+  </g>
 </svg>
