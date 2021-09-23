@@ -189,7 +189,7 @@ export default {
 <style>
 :root {
   --screen-width: 100vw;
-  --bg-color: #5600ac;
+  --bg-color: rgb(86, 0, 172);
   --bg-green: #1fd837;
   --dark: #232029;
   --gray: #484848;

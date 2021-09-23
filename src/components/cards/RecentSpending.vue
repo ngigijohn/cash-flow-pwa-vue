@@ -37,11 +37,12 @@ export default {
       let difference = new Date(now.getTime() - time);
       let timeAgo = "";
 
-      if (difference.getUTCHours() > 23) {
+      if (difference.getUTCHours() > 23 || difference.getUTCDate() > 1) {
         return new Date(time).toDateString();
       }
       if (difference.getUTCHours() > 0) {
         timeAgo = `${difference.getUTCHours()} h ${difference.getMinutes()} min ago`;
+        // console.log(difference.getUTCDate());
         return timeAgo;
       }
       if (difference.getUTCHours() > 1) {

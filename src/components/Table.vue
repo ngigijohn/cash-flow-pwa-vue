@@ -107,7 +107,7 @@ export default {
     },
   },
   mounted() {
-    console.log(this.groupByDay);
+    // console.log(this.groupByDay);
   },
 };
 </script>
