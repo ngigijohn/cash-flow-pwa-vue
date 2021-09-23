@@ -1,6 +1,6 @@
-
-# Remember to update currency
-??? grouping entries by date in the table 
-??? how to include chart js in a vue project
-+++ pwa support
 +++ form vaildation
++++ Fix the bugs I introduced in chart vue
+  i.e._negative dates
++++ add email notifications
++++ implement vue store for centralised data
++++ make and export icons
