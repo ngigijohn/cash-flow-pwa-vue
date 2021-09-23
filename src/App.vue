@@ -6,6 +6,33 @@
       :totalSpending="totalSpending"
       :currency="currency"
     />
+    <div class="container" v-if="!data">
+      <div class="init shadow border-radius-16 card">
+        <h3>Thanks for installing the Cash Flow web app</h3>
+        <ul class="note">
+          Note
+          <li><p>All data is stored locally on your device</p></li>
+          <li>
+            <p>
+              Uninstalling or reseting your browser will lead to loss of data
+            </p>
+          </li>
+          <li>
+            <p>The app is under development and some features may not work</p>
+          </li>
+          <li>
+            <p>
+              To create an account tap the user icon on the top right corner
+            </p>
+          </li>
+        </ul>
+        <p class="tip">To get started</p>
+        <a href="" class="bg-green center-text border-radius-7 refresh"
+          >Get started</a
+        >
+      </div>
+    </div>
+
     <router-view
       :accountBalance="accountBalance"
       :resetMemory="resetMemory"
@@ -374,6 +401,17 @@ form .form-control textarea {
 }
 form .form-control select {
   width: 100%;
+  padding: 0.5em;
+}
+.note {
+  margin: 2em;
+}
+.tip {
+  margin-top: 2em;
+}
+a.refresh {
+  display: block;
+  text-decoration: none;
   padding: 0.5em;
 }
 
