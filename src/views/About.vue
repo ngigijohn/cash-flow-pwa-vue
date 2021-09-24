@@ -10,12 +10,12 @@
         <p class="description">
           This is an app to enable you to easily manage your finances by showing
           you your spending habits.<br />The app is made by
-          <a href="https://www.tickertimer.tk/profile.html">John Ngigi</a> in
-          vue js and other javascript libraries
+          <a href="https://www.nigigjohn.tk/">John Ngigi</a> in vue js and other
+          javascript libraries
         </p>
         <h4>Author</h4>
         <p class="description">John Ngigi</p>
-        <h4>Liscence</h4>
+        <h4>Licence</h4>
         <p class="description">LSC: !23GhytsC</p>
       </div>
     </div>
