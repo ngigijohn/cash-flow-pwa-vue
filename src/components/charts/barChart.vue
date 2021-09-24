@@ -9,6 +9,7 @@ export default {
   name: "BarChart",
   props: {
     // The canvas's width.
+    //hey
     width: {
       type: Number,
       validator: (value) => value > 0,
