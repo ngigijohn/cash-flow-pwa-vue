@@ -53,7 +53,7 @@
 <script>
 import numeral from "numeral";
 // import LineChart from "../components/charts/LineChart.vue";
-import BarChart from "../components/charts/BarChart.vue";
+import BarChart from "../components/charts/barChart.vue";
 
 const options = {
   scales: {
